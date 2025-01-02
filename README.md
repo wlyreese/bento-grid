@@ -28,7 +28,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -48,7 +47,6 @@ CSS Grid-Template-Area is a tool i've wanted to try out for a little while. It w
 I also learned how to use TTF files in CSS for the first time, as this is my first coding project, it was nice to learn how many different ways fonts can be used.
 
 HTML line breaks (<br>) can be toggled on and off with the display property.
-
 
 ### Continued development
 
